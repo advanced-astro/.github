@@ -17,6 +17,7 @@
 	      "matchPackagePatterns": ["lint", "prettier"],
 	      "automerge": true
 	    }
-	  ]
+	  ],
+		"commitMessagePrefix": "⬆️ "
   }
-  
+
